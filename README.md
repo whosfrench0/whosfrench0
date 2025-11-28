@@ -2,7 +2,7 @@
 <h3 align="center">Roblox Luau Developer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=whosfrench0">
+  <a href="https://komarev.com/ghpvc/?username=whosfrench0](https://komarev.com/ghpvc/?username=whosfrench02&label=Profile%20views&color=0e75b6&style=flat)">
     <img src="https://komarev.com/ghpvc/?username=whosfrench0&label=Profile%20views&color=00FFFF&style=flat-square" alt="whosfrench0's profile views" />
   </a>
 </p>
