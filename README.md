@@ -1,100 +1,108 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hey%2C+I'm+frnchy+👋;Full-Stack+Developer)](https://git.io/typing-svg)
+<!-- Terminal header animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=620&height=120&lines=%24+whoami;%3E+frnchy;%24+cat+%2Fetc%2Fpasswd+%7C+grep+frnchy;%3E+full-stack+%7C+game+dev+%7C+always+building)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=2&section=header" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=frnchy&color=FF4D4D&style=for-the-badge&label=PROFILE+VIEWS)
+<!-- Scanline/terminal top bar -->
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  frnchy@github ~ $                              [●] [●] [●]         │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=frnchy&color=00FF41&style=for-the-badge&label=VISITORS)
 
 </div>
 
 ---
 
-## 🔥 About Me
+## `$ cat about.txt`
 
-```python
-class frnchy:
-    languages  = ["Python", "JavaScript", "C++", "HTML/CSS", "Lua"]
-    tools      = ["Node.js", "Discord.py", "Supabase", "Roblox Studio"]
-    interests  = ["Game Dev", "Bot Dev", "Full-Stack", "Low-Level Stuff"]
-    currently  = "Working on too many things at once"
-    motto      = "If it compiles, ship it"
+```sh
+╔══════════════════════════════════════════════════════════╗
+║  frnchy@dev:~$                                           ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  class Developer:                                        ║
+║      name       = "frnchy"                               ║
+║      os         = "arch btw"                             ║
+║      shell      = "zsh + neovim, obviously"              ║
+║      languages  = ["Python", "JS", "C++", "Lua", "HTML"] ║
+║      tools      = ["Node.js", "discord.py", "Supabase"]  ║
+║      loves      = ["game dev", "bot dev", "low-level"]   ║
+║      currently  = "overengineering something"            ║
+║      motto      = "if it runs, don't touch it"           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `$ ls -la ./tech-stack/`
 
 <div align="center">
 
-**Languages**
+**`// languages`**
 
-![Python](https://img.shields.io/badge/Python-FF4D4D?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF6666?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-FF4D4D?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF6666?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF4D4D?style=for-the-badge&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-FF6666?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![HTML5](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![CSS3](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=00FF41&labelColor=0d1117&color=0d1117)
 
-**Frameworks & Runtimes**
+**`// runtime & frameworks`**
 
-![Node.js](https://img.shields.io/badge/Node.js-FF4D4D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-FF6666?style=for-the-badge&logo=discord&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-FF4D4D?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![Discord.py](https://img.shields.io/badge/discord.py-0d1117?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=00FF41&labelColor=0d1117&color=0d1117)
 
-**Tools & Platforms**
+**`// tools & platforms`**
 
-![Git](https://img.shields.io/badge/Git-FF4D4D?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF6666?style=for-the-badge&logo=github&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-FF4D4D?style=for-the-badge&logo=supabase&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-FF6666?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-FF4D4D?style=for-the-badge&logo=roblox&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-FF6666?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FF4D4D?style=for-the-badge&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-0d1117?style=for-the-badge&logo=roblox&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00FF41&labelColor=0d1117&color=0d1117)
+![VS Code](https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41&labelColor=0d1117&color=0d1117)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `$ htop --user=frnchy`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=frnchy&show_icons=true&hide_border=true&title_color=FF4D4D&icon_color=FF6666&text_color=ffffff&bg_color=0d1117&ring_color=FF4D4D&count_private=true&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnchy&layout=compact&hide_border=true&title_color=FF4D4D&text_color=ffffff&bg_color=0d1117&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=frnchy&show_icons=true&hide_border=true&title_color=00FF41&icon_color=00cc33&text_color=00FF41&bg_color=0d1117&ring_color=00FF41&count_private=true&include_all_commits=true" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnchy&layout=compact&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=0d1117&langs_count=8" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=frnchy&theme=dark&hide_border=true&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF6666&sideLabels=FF6666&dates=ffffff&background=0d1117" width="49%"/>
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=frnchy&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com?user=frnchy&theme=dark&hide_border=true&ring=00FF41&fire=00cc33&currStreakLabel=00FF41&sideLabels=00cc33&dates=00FF41&background=0d1117&stroke=00FF41" width="60%"/>
 
 </div>
 
 ---
 
-## 📈 Activity
+## `$ tail -f /var/log/git-activity.log`
 
 <div align="center">
 
-[![frnchy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frnchy&bg_color=0d1117&color=FF6666&line=FF4D4D&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![frnchy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=frnchy&bg_color=0d1117&color=00FF41&line=00cc33&point=00FF41&area=true&area_color=00FF41&hide_border=true&custom_title=commit+log)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## `$ ./snake --grid=contributions`
 
 <div align="center">
 
@@ -108,33 +116,31 @@ class frnchy:
 
 ---
 
-## 💻 What I'm Working On
+## `$ ps aux | grep frnchy`
 
-- 🎮 Roblox game dev & Lua scripting
-- 🤖 Discord bots with Python
-- 🌐 Web stuff with Node.js
-- ⚙️ C++ projects & tools
-
----
-
-## 📬 Find Me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-FF4D4D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6666?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frnchy)
-[![Roblox](https://img.shields.io/badge/Roblox-FF4D4D?style=for-the-badge&logo=roblox&logoColor=white)](https://roblox.com)
-
-</div>
+```sh
+frnchy  1337  99.9  🎮  roblox-dev       —  Lua scripting & game systems
+frnchy  1338  87.4  🤖  discord-bots     —  Python, discord.py, Supabase
+frnchy  1339  72.1  🌐  web-dev          —  Node.js, Express, full-stack
+frnchy  1340  61.8  ⚙️   low-level        —  C++ tools & system stuff
+frnchy  1341  45.2  🐧  linux-things     —  because windows is temporary
+```
 
 ---
 
+## `$ cat /etc/motd`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D4D&height=100&section=footer" width="100%"/>
+```
+  "The best code is no code at all.
+   The second best is code nobody has to read."
+```
 
-*"Code is like humor. When you have to explain it, it's bad."*
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/frnchy)
+[![Roblox](https://img.shields.io/badge/Roblox-0d1117?style=for-the-badge&logo=roblox&logoColor=00FF41)](https://roblox.com)
 
-![](https://img.shields.io/badge/made_with-too_much_caffeine-FF4D4D?style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=%24+shutdown+-h+now;Connection+closed.;%5BProcess+exited+with+code+0%5D)](https://git.io/typing-svg)
 
 </div>
